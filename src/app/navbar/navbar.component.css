@@ -1,0 +1,25 @@
+.navbar{
+background-color: #171717 ;
+text-align: center;
+border-top: 0.1rem solid rgba(0, 0, 0, 0.208);
+}
+a{
+    color: #ede8e8;
+}
+.nav-item {
+    margin:0px 20% 0px 20%;
+    padding: auto;
+    text-align: center;
+}
+.navbar-nav{
+    margin: auto;
+}
+.navbar-brand{
+    width: 30%;
+}
+img{
+    width: 30%;
+}
+.nav-link:hover{
+    color: #c2bebe;
+}
